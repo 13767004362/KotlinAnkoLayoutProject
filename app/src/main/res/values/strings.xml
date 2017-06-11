@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AnkoLayout案例</string>
+    <string name="title">AnkoLayout+MVP(Glide+Retrofit+OkHttp+RxJava)</string>
+</resources>
